@@ -1,0 +1,50 @@
+{
+    "Background": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "_ROI_ROOT": null,
+    "add_text": true,
+    "angles": {
+        "AP": {
+            "angle": [
+                0,
+                180
+            ],
+            "cd": 500
+        },
+        "LR": {
+            "angle": [
+                0,
+                270
+            ],
+            "cd": 500
+        },
+        "PA": {
+            "angle": [
+                180,
+                -180
+            ],
+            "cd": 500
+        },
+        "RL": {
+            "angle": [
+                0,
+                90
+            ],
+            "cd": 500
+        }
+    },
+    "case_list": "//Salmon/User/Chen/Vessel_data/Dataset for Distance Assessment/crop_vessels_pelvis_36cases/caseid_list_vessels_36.txt",
+    "clipping": null,
+    "n_jobs": 4,
+    "out_dir": "./Visualizations",
+    "vu": [
+        0,
+        0,
+        1
+    ],
+    "x": 300,
+    "y": 230
+}

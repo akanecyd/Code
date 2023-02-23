@@ -1,0 +1,12 @@
+{   
+    "vein_right":5 ,
+    "vein_left":6 ,
+    "artery_right":7 ,
+    "artery_left":8,
+    "pelvis_right": 1,
+    "pelvis_left": 2,
+    "femur_right": 3,
+    "femur_left": 4,
+     "nerve_right":5,
+    "nerve_left":6
+}

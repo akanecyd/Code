@@ -1,0 +1,27 @@
+{
+    "uncertainty": {
+        "bb": {
+            "colors": "./TFs/BoundingBox_color.txt",
+            "ext": ".acsv",
+            "root": null,
+            "status": false
+        },
+        "cam_config": {
+            "ambient": 0.5,
+            "diffuse": 0.5,
+            "spec_power": 10.0,
+            "specular": 0.2
+        },
+        "center_label": null,
+        "center_y_offset": null,
+        "ext": "-vessels_uncert.mhd",
+        "flip": false,
+        "interp": "linear",
+        "root": "//Salmon/User/mazen/Segmentation/Codes/results/Osaka/vessels/36_womuscles_cropped_150000",
+        "skin_ext": null,
+        "skin_mask": false,
+        "skin_root": null,
+        "tf": "uncertainty",
+        "th": 1
+    }
+}
